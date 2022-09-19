@@ -1,17 +1,16 @@
-<h1 align="left">Hi world, I'm Chris</h1>
+<h2 align="left">Hi world, I'm Chris</h2>
 <h3 align="left">Full stack web developer from Indonesia</h3>
+<br />
 
-- 🔭 I’m currently working on **some projects**
+- 🔭 I’m currently working on **some private projects**
 
 - 🌱 I’m currently learning **Nextjs, Nest.js, CICD**
-
-- 📫 How to reach me **sirhcleunam@gmail.com**
 
 - ⚡ Fun fact **I'm a lone cat sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chrismanuellorando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrismanuellorando" height="30" width="40" /></a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
