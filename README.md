@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate web app developer from Indonesia</h3>
+<h1 align="left">Hi world, I'm Chris</h1>
+<h3 align="left">Full stack web developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **some projects**
 
