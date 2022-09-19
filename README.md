@@ -1,5 +1,5 @@
 <h3 align="left">Hi world, I'm Chris</h3>
-<h4 align="left">Full stack web developer from Indonesia :indonesia:</h4>
+<h4 align="left">Web developer from Indonesia :indonesia:</h4>
 
 - :man_technologist: I’m currently working as Backend Developer @ **private company in Jakarta**
 - :briefcase: I’m currently working on **some private projects**
