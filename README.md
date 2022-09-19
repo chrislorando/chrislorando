@@ -2,8 +2,8 @@
 <h4 align="left">Full stack web developer from Indonesia :indonesia:</h4>
 
 - :man_technologist: I’m currently working as Backend Developer @ **private company in Jakarta**
-- 🔭 I’m currently working on **some private projects**
-- :notes: I’m looking to collaborate on **open source or commercial projects**
+- :briefcase: I’m currently working on **some private projects**
+- 🔭 I’m looking to collaborate on **open source or commercial projects**
 - :speech_balloon: Ask me about Web Development
 - :mailbox: Reach me at chrismanuel.lorando@gmail.com
 
