@@ -3,7 +3,7 @@
 
 - :man_technologist: I’m currently working as Backend Developer @ **private company in Jakarta**
 - :briefcase: I’m currently working on **some private projects**
-- 📝 I’m currently learning React, Next.js, and Livewire 
+- 📝 I’m currently deeply learning Next.js, and Livewire 
 - 🔭 I’m looking to collaborate on **open source or commercial projects**
 - :speech_balloon: Ask me about Web Development
 - :mailbox: Reach me at chrismanuel.lorando@gmail.com
