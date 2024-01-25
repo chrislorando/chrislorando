@@ -8,11 +8,13 @@
 - :speech_balloon: Ask me about Web Development
 - :mailbox: Reach me at chrismanuel.lorando@gmail.com
 
+
 <p>
 I really enjoyed learning Laravel Livewire 3, it was really fun to use, javascript in php very out of the box.
 I started using it on a production scale, and you should try this, too :)
 Tried some sample projects built with Laravel Livewire 3, hope will be finished this year :D
 </p>
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
