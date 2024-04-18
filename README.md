@@ -3,7 +3,7 @@
 📍 **Web Developer** | Jakarta, Indonesia 🇮🇩
 
 ## About Me
-I'm a dedicated backend developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private company and some private projects and diving deep into the realms of **Laravel**, **Livewire**, and **Next.js**.
+I'm a dedicated backend developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private company and some private projects and diving deep into the realms of **TALL Stack**
 
 ## Professional Journey
 - 👨‍💻 Full Stack and Backend Developer at a dynamic company in Jakarta.
@@ -11,8 +11,8 @@ I'm a dedicated backend developer with a passion for building scalable web appli
 - 📘 Expanding my expertise in modern web technologies.
 
 ## Learning & Collaboration
-- 📝 Exploring **Next.js** for frontend excellence.
 - 🌐 Exploring **Livewire 3** for seamless integration of JavaScript in PHP.
+- 📝 Exploring **Next.js** for frontend excellence.
 - 🔭 Eager to collaborate on both open-source and commercial projects that push technological boundaries.
 
 ## Let's Connect
