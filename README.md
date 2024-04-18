@@ -34,17 +34,3 @@ Stay tuned for more updates, and let's make the web a better place together!
 
 </p>
 
-<h4 align="left">Main tech skill:</h4>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img style="height:25px" src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,jquery,nodejs,express,mysql,nginx,gitlab,git,vscode,linux" />
-  </a>
-</p>
-
-
-<h4 align="left">Secondary tech skill:</h4>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img style="width:235px" src="https://skillicons.dev/icons?i=redis,tailwind,angular,ts,react,go,figma,docker" />
-  </a>
-</p>
