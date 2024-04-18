@@ -1,19 +1,29 @@
-<h3 align="left">Hi world, I'm Chris</h3>
-<h4 align="left">Web developer from Indonesia :indonesia:</h4>
+# Greetings, World! I'm Chris 🌟
 
-- :man_technologist: I’m currently working as Backend Developer @ **private company in Jakarta**
-- :briefcase: I’m currently working on **some private projects**
-- 📝 I’m currently deeply learning Next.js, and Livewire 
-- 🔭 I’m looking to collaborate on **open source or commercial projects**
-- :speech_balloon: Ask me about Web Development
-- :mailbox: Reach me at chrismanuel.lorando@gmail.com
+📍 **Web Developer** | Jakarta, Indonesia 🇮🇩
 
+## About Me
+I'm a dedicated backend developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private projects and diving deep into the realms of **Next.js** and **Livewire**.
 
-<p>
-I really enjoyed learning Laravel Livewire 3, it was really fun to use, javascript in php very out of the box.
-I started using it on a production scale, and you should try this, too :)
-Tried some sample projects built with Laravel Livewire 3, hope will be finished this year :D
-</p>
+## Professional Journey
+- 👨‍💻 Backend Developer at a dynamic company in Jakarta.
+- 🚀 Actively working on innovative private projects.
+- 📘 Expanding my expertise in modern web technologies.
+
+## Learning & Collaboration
+- 📝 Exploring **Next.js** for frontend excellence.
+- 🌐 Exploring **Livewire 3** for seamless integration of JavaScript in PHP.
+- 🔭 Eager to collaborate on both open-source and commercial projects that push technological boundaries.
+
+## Let's Connect
+- 💬 Got questions about web development? I'm here to share what I know!
+- 📫 Reach out to me at chrismanuel.lorando@gmail.com.
+
+## Passion Projects
+I'm captivated by the elegance of **Laravel Livewire 3**—it's a game-changer for developing interactive web apps with a blend of PHP and JavaScript. I've embarked on using it in production environments and I'm excited about the potential. Check out my sample projects, which I aim to complete this year. They're a testament to the power and flexibility of Livewire 3.
+
+Stay tuned for more updates, and let's make the web a better place together!
+
 
 
 <h4 align="left">Connect with me:</h4>
