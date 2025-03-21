@@ -3,7 +3,7 @@
 📍 **Web Developer** | Jakarta, Indonesia 🇮🇩
 
 ## About Me
-I'm a dedicated backend developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private company and some private projects and diving deep into the realms of **TALL Stack**
+I'm a dedicated full stack developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private company and some private projects and diving deep into the realms of **TALL Stack**
 
 ## Professional Journey
 - 👨‍💻 Full Stack and Backend Developer at a dynamic company in Jakarta.
