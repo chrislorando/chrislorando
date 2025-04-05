@@ -1,29 +1,34 @@
 # Greetings, World! I'm Chris 🌟
 
-📍 **Web Developer** | Jakarta, Indonesia 🇮🇩
+📍 **Full Stack Web Developer** | Jakarta, Indonesia 🇮🇩
 
 ## About Me
 I'm a dedicated full stack developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private company and some private projects and diving deep into the realms of **TALL Stack**
 
 ## Professional Journey
-- 👨‍💻 Full Stack and Backend Developer at a dynamic company in Jakarta.
-- 🚀 Actively working on innovative private projects.
+- 👨‍💻 Full Stack Web Developer at a dynamic company in Indonesia.
+- 🚀 Actively working as a freelancer.
 - 📘 Expanding my expertise in modern web technologies.
 
 ## Learning & Collaboration
-- 🌐 Exploring **Livewire 3** for seamless integration of JavaScript in PHP.
+- <> Keep exploring **PHP, Laravel, and Filament**.
+- 🌐 Exploring **Livewire** for seamless integration of JavaScript in PHP.
 - 📝 Exploring **Next.js** for frontend excellence.
 - 🔭 Eager to collaborate on both open-source and commercial projects that push technological boundaries.
 
+## My Current Tech Stack
+- PHP, Laravel, Livewire
+- HTML, CSS, Javascript, Bootstrap, Tailwind Css
+- Node.js, Express.js
+- Ionic Angular
+- MySql, MariaDB, Sqlite, Sql Server, PostgreSQL
+
 ## Let's Connect
+I am currently seeking a full-time overseas job opportunity as a Full Stack Web Developer or Backend Developer (Laravel). 
+I am eager to take on new challenges and grow professionally in an international environment.
+Excited to contribute my skills to impactful projects while continuously learning and improving. Let’s connect and build something great together! 🚀
 - 💬 Got questions about web development? I'm here to share what I know!
-- 📫 Reach out to me at chrismanuel.lorando@gmail.com.
-
-## Passion Projects
-I'm captivated by the elegance of **Laravel Livewire 3**—it's a game-changer for developing interactive web apps with a blend of PHP and JavaScript. I've embarked on using it in production environments and I'm excited about the potential. Check out my sample projects, which I aim to complete this year. They're a testament to the power and flexibility of Livewire 3.
-
-Stay tuned for more updates, and let's make the web a better place together!
-
+- 📫 Reach out to me at chrismanuel.lorando@gmail.com or https://www.linkedin.com/in/chrismanuellorando/
 
 
 <h4 align="left">Connect with me:</h4>
