@@ -24,7 +24,7 @@ I'm a dedicated full stack developer with a passion for building scalable web ap
 - MySql, MariaDB, Sqlite, Sql Server, PostgreSQL
 
 ## Let's Connect
-I am currently seeking a full-time overseas job opportunity as a Full Stack Web Developer or Backend Developer (Laravel). 
+I am currently seeking a full-time remote job as a Full Stack Web Developer or Backend Developer (Laravel). 
 I am eager to take on new challenges and grow professionally in an international environment.
 Excited to contribute my skills to impactful projects while continuously learning and improving. Let’s connect and build something great together! 🚀
 - 💬 Got questions about web development? I'm here to share what I know!
