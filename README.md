@@ -1,41 +1,56 @@
-# Greetings, World! I'm Chris 🌟
+# Hi there, I'm Chris! 👋
 
-📍 **Full Stack Web Developer** | Jakarta, Indonesia 🇮🇩
+**Full Stack Web Developer** based in Jakarta, Indonesia 🇮🇩
 
-## About Me
-I'm a dedicated full stack developer with a passion for building scalable web applications. Currently, I'm enhancing my skills on private company and some private projects and diving deep into the realms of **TALL Stack**
+I build web applications that work. Starting simple, scaling smart, growing from prototype to production-ready systems that serve users worldwide.
 
-## Professional Journey
-- 👨‍💻 Full Stack Web Developer at a dynamic company in Indonesia.
-- 🚀 Actively working as a freelancer.
-- 📘 Expanding my expertise in modern web technologies.
+## 🚀 What I Do
 
-## Learning & Collaboration
-- <> Keep exploring **PHP, Laravel, and Filament**.
-- 🌐 Exploring **Livewire** for seamless integration of JavaScript in PHP.
-- 📝 Exploring **Next.js** for frontend excellence.
-- 🔭 Eager to collaborate on both open-source and commercial projects that push technological boundaries.
+- Full Stack Web Developer at a tech company in Indonesia
+- Freelance developer working on various projects
+- Specializing in **TALL Stack** (Tailwind, Alpine, Laravel, Livewire)
 
-## My Current Tech Stack
-- PHP, Laravel, Livewire
-- HTML, CSS, Javascript, Bootstrap, Tailwind Css
+## 🛠️ Tech Stack
+
+**Backend**
+- PHP, Laravel, Livewire, Filament, Reverb
 - Node.js, Express.js
+- MySQL, PostgreSQL, SqlServer, SQLite
+
+**Frontend**
+- HTML, CSS, JavaScript
+- Vue.js (Inertia), Bootstrap, Tailwind CSS
 - Ionic Angular
-- MySql, MariaDB, Sqlite, Sql Server, PostgreSQL
+- JQuery
 
-## Let's Connect
-I am currently seeking a full-time remote job as a Full Stack Web Developer or Backend Developer (Laravel). 
-I am eager to take on new challenges and grow professionally in an international environment.
-Excited to contribute my skills to impactful projects while continuously learning and improving. Let’s connect and build something great together! 🚀
-- 💬 Got questions about web development? I'm here to share what I know!
-- 📫 Reach out to me at chrismanuel.lorando@gmail.com or https://www.linkedin.com/in/chrismanuellorando/
+**Tools & Others**
+- Docker, Jenkins
+- NativePHP
+- Git, Linux
 
+## 🌱 Currently Learning
 
-<h4 align="left">Connect with me:</h4>
+- Advanced Laravel & Filament
+- Livewire for seamless PHP/JS integration
+- Inertia.js with Vue for modern SPAs
+- NativePHP for mobile apps with Laravel
+
+## 💼 Looking For
+
+I'm actively seeking **remote full-time opportunities** (Laravel focus) as:
+- Full Stack Web Developer 
+- Backend Developer
+
+Ready to contribute to international teams and impactful projects!
+
+## 📫 Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/chrismanuellorando/" target="_blank"><img style="width:25px;height:25px" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/chris.lorando/" target="_blank"><img style="width:25px;height:25px" src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/chrislorando"><img style="width:25px;height:25px"src="https://skillicons.dev/icons?i=github" /></a>
-
 </p>
 
+---
+
+💬 Feel free to reach out if you have questions about web development or want to collaborate!
