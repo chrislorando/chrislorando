@@ -1,70 +1,37 @@
-# Hi there, I'm Chris! 👋
+# Chris - Full Stack Developer
 
-**Full Stack Developer** | Laravel & TALL Stack 🚀  
-📍 Indonesia
+Laravel & TALL Stack specialist based in Indonesia. Building web applications from MVP to production.
 
-10 years of building web applications for Indonesian businesses. Started with plain PHP, evolved through Yii and CodeIgniter, found my groove with Laravel. Now freelancing full-time and loving it.
+## What I Do
 
-**My approach:** Starting simple, scaling smart, growing from prototype to production-ready systems. My GitHub is where I experiment and learn new stuff - most of my production work lives in private repos.
+Freelance full-stack development focused on:
+- Laravel applications (TALL stack: Tailwind, Alpine, Livewire)
+- Modern SPAs with Inertia + Vue.js + shadcn-vue
+- MVP development and scaling
 
-## 🚀 What I'm Up To
+Most production work is in private repos. This GitHub is where I experiment with new tech and share learning projects.
 
-- 💼 **Full-time Freelancer** - helping Indonesian businesses build MVPs and scale them
-- 🎯 Specializing in **TALL Stack** (Tailwind, Alpine, Laravel, Livewire)
-- 💚 Also love **Inertia + Vue.js** with shadcn-vue for modern SPAs
-- 🚀 Building **prototypes that grow into production systems**
-- 🤖 Currently exploring **AI integration** (OpenAI API, n8n automation)
-- 📚 GitHub repos here are for learning and experiments - check out the demo links!
+## Tech Stack
 
-## 🛠️ Tech Stack
+**Backend:** PHP (Laravel, Livewire, Filament, Inertia), Node.js (Express)  
+**Frontend:** Vue.js, TypeScript, JavaScript, Tailwind CSS, Alpine.js  
+**Database:** MySQL, PostgreSQL, SQLite  
+**DevOps:** Docker (Portainer), CI/CD (GitHub Actions, Jenkins), Ubuntu servers, Nginx  
+**Tools:** Git, VS Code, Copilot
 
-**Backend**
-- PHP ecosystem: Plain PHP → Yii → CodeIgniter → **Laravel**
-- Laravel tools: Livewire, Filament, Inertia
-- Node.js, Express.js
-- MySQL, PostgreSQL, SQL Server, SQLite
+## Currently Exploring
 
-**Frontend**
-- TypeScript, JavaScript (ES6+), HTML, CSS
-- **Modern stack:** Vue.js (with Inertia), shadcn-vue, Tailwind CSS, Alpine.js
-- **Legacy support:** jQuery, Bootstrap (still used by many Indonesian clients)
-- Ionic Angular (when needed for mobile)
+- AI integration (OpenAI API, n8n automation)
+- Latest Laravel features and ecosystem
 
-**Deployment & Tools**
-- Ubuntu servers, Docker
-- GitHub Actions, Jenkins
-- VPS (Biznet Gio, Hostinger, Cloudkilat)
-- Basic DevOps (not my main strength, but I can get stuff deployed!)
+## Work With Me
 
-## 🎯 Real-World Experience
+Available for freelance projects:
+- Laravel web applications
+- MVP development
+- Full-stack development (prototype to production)
 
-**10 years building for Indonesian businesses:**
-- 🏢 Private client applications serving hundreds of users across multiple companies
-- 🚀 **MVP development** - starting simple, then scaling based on real usage
-- 🔧 Full PHP evolution: plain PHP → Yii → CodeIgniter → Laravel → Lumen
-- 💼 Legacy systems maintenance and modern web apps
-- 📱 Occasional mobile projects (Ionic Angular + backends)
-
-**Note:** Most of my work is in private repos (client confidentiality). My GitHub shows what I build when learning new tech!
-
-## 🌱 Currently Exploring
-
-- 🤖 **AI Integration** - OpenAI API and n8n workflow automation
-- 🚀 **NativePHP** - early days, still buggy but interesting!
-- 📊 **Laravel** - staying current with the latest version and features
-- ☁️ **Modern deployment** - exploring better ways to ship apps
-
-## 💼 Open for Work
-
-I'm available for **freelance projects** and **full-time remote opportunities** - especially if you need help:
-- **Building MVPs** that can scale (my sweet spot!)
-- Laravel web applications (**TALL stack** or **Inertia + Vue** preferred)
-- Starting simple, scaling smart - prototype to production
-- Full-stack development from concept to deployment
-
-Most of my experience is with Indonesian clients and local teams, but I'm eager to work with international companies too. If you're building something interesting or have a position open, let's talk!
-
-**Work style:** Remote, flexible hours, honest about what I know and what I'm still learning.
+Remote work, flexible hours. Open to Indonesian and international clients.
 
 
 ## 📫 Let's Connect
