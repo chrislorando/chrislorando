@@ -66,9 +66,6 @@ Most of my experience is with Indonesian clients and local teams, but I'm eager 
 
 **Work style:** Remote, flexible hours, honest about what I know and what I'm still learning.
 
-## 📊 GitHub Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislorando&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
