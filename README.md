@@ -4,7 +4,7 @@ Full Stack Web Developer
 
 Building scalable web applications with PHP, Laravel, and more.
 
-Currently deepening my knowledge in Go, AI, Next, Nuxt, and Microservices.
+Currently deepening my knowledge in Automation, AI, Go, Next, Nuxt, and Microservices.
 
 Currently exploring NativePHP and Open Source.
 
