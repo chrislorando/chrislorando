@@ -8,7 +8,7 @@ Currently deepening my knowledge in Go, AI, Next, Nuxt, and Microservices.
 
 Currently exploring NativePHP and Open Source.
 
-<img width="600" height="300" alt="Gemini_Generated_Image_37rtrs37rtrs37rt" src="https://github.com/user-attachments/assets/e7c1c6ba-86fb-4585-aeb5-00e11df21cd6" />
+<img width="500" height="200" alt="Gemini_Generated_Image_37rtrs37rtrs37rt" src="https://github.com/user-attachments/assets/e7c1c6ba-86fb-4585-aeb5-00e11df21cd6" />
 
 
 ## 📫 Let's Connect
