@@ -1,6 +1,6 @@
 # Chris Manuel Lorando
 
-Full Stack Developer
+Full Stack Web Developer
 
 Building scalable web applications with PHP, Laravel, and more.
 
