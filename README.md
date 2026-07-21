@@ -1,45 +1,18 @@
-# Chris - Full Stack Developer
+# Chris Manuel Lorando
 
-Laravel & TALL Stack specialist based in Indonesia. Building web applications from MVP to production.
+Full Stack Developer
 
-## What I Do
+Building scalable web applications with PHP, Laravel, and more.
 
-Freelance full-stack development focused on:
-- Laravel applications (TALL stack: Tailwind, Alpine, Livewire)
-- Modern SPAs with Inertia + Vue.js + shadcn-vue
-- MVP development and scaling
+Currently deepening my knowledge in Go, AI, Next, Nuxt, NativePHP, Microservices and Open Source.
 
-Most production work is in private repos. This GitHub is where I experiment with new tech and share learning projects.
-
-## Tech Stack
-
-**Backend:** PHP (Laravel, Livewire, Filament, Inertia), Node.js (Express)  
-**Frontend:** Vue.js, TypeScript, JavaScript, Tailwind CSS, Alpine.js  
-**Database:** MySQL, PostgreSQL, SQLite  
-**DevOps:** Docker (Portainer), CI/CD (GitHub Actions, Jenkins), Ubuntu servers, Nginx  
-**Tools:** Git, VS Code, Copilot
-
-## Currently Exploring
-
-- AI integration (OpenAI API, n8n automation)
-- Latest Laravel features and ecosystem
-
-## Work With Me
-
-Available for freelance projects:
-- Laravel web applications
-- MVP development
-- Full-stack development (prototype to production)
-
-Remote work, flexible hours. Open to Indonesian and international clients.
+<img width="1408" height="768" alt="Gemini_Generated_Image_37rtrs37rtrs37rt" src="https://github.com/user-attachments/assets/e7c1c6ba-86fb-4585-aeb5-00e11df21cd6" />
 
 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chrismanuellorando/" target="_blank"><img style="width:28px;height:28px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/chris.lorando/" target="_blank"><img style="width:28px;height:28px" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://github.com/chrislorando"><img style="width:28px;height:28px" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/chrismanuellorando/" target="_blank"><img style="width:28px;height:28px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" / </a>
 </p>
 
 ---
