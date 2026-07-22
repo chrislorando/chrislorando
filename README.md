@@ -1,4 +1,4 @@
-# Chris Manuel Lorando
+# Chrismanuel Lorando
 
 Full Stack Web Developer
 
